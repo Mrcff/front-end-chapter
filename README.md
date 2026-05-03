@@ -1,9 +1,7 @@
 # 📘 Projeto Web — HTML, CSS e GitHub
-
 ## 📌 Sobre
 Este projeto apresenta um fluxo básico de desenvolvimento web utilizando **HTML**, **CSS** e **Git/GitHub**.
 
----
 
 ## 🧱 Estrutura do Projeto
 
@@ -15,5 +13,3 @@ Este projeto apresenta um fluxo básico de desenvolvimento web utilizando **HTML
 
 - **Git/GitHub** → versionamento  
   (controle e histórico de alterações)
-
----
