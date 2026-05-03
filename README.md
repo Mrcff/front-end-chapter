@@ -1,5 +1,3 @@
-# Projeto Web
-
 ## 📌 Sobre
 Este projeto tem como objetivo desenvolver um site com foco em organização e apresentação de informações.
 
