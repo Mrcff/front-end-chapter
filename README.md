@@ -1,17 +1,20 @@
-#Projeto Web — HTML, CSS e GitHub
-
+# Projeto Web
 
 ## 📌 Sobre
-Este projeto apresenta um fluxo básico de desenvolvimento web utilizando **HTML**, **CSS** e **Git/GitHub**.
+Este projeto tem como objetivo desenvolver um site com foco em organização e apresentação de informações.
 
+## 🚀 Funcionalidades
+- Página inicial
+- Seção de notícias
+- Navegação simples
+- Layout responsivo
 
-##Estrutura do Projeto
+## 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+- GitHub
 
-- **HTML** → estrutura da página  
-  (títulos, parágrafos, imagens, links e listas)
-
-- **CSS** → estilo e layout  
-  (cores, espaçamentos e organização)
-
-- **Git/GitHub** → versionamento  
-  (controle e histórico de alterações)
+## 📂 Estrutura
+- index.html
+- style.css
